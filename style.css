@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: pink;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+
+#img1, #img2
+{
+    width: 100px;
+    height: 100px;
+}
